@@ -1,2 +1,0 @@
-model_name: workspace.churn_zero.churn_risk_model_xgboost
-model_version: '1'
